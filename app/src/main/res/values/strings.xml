@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">week4</string>
+    <string name="computer">COMPUTER</string>
+    <string name="user">USER</string>
+    <string name="higher">Higher</string>
+    <string name="lower">Lower</string>
+</resources>
